@@ -8,8 +8,8 @@
     <ProjectGuid>{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ogilvy.Common.Cryptography</RootNamespace>
-    <AssemblyName>Ogilvy.Common.Cryptography</AssemblyName>
+    <RootNamespace>Common.Cryptography</RootNamespace>
+    <AssemblyName>Common.Cryptography</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
