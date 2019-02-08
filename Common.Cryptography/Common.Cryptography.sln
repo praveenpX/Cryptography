@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogilvy.Common.Cryptography", "Ogilvy.Common.Cryptography\Ogilvy.Common.Cryptography.csproj", "{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Cryptography", "Common.Cryptography\Common.Cryptography.csproj", "{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
