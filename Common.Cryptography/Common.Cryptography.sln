@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogilvy.Common.Cryptography", "Ogilvy.Common.Cryptography\Ogilvy.Common.Cryptography.csproj", "{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99263AF2-5F42-40CA-A9A4-9FD92418F8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
